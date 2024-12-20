@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /portfolio/img/home page/profil.png
+
+
